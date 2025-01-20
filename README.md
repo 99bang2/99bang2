@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @99bang2
-- 👀 I’m interested in Rust
-- 🌱 I’m currently learning Rust, Algorithm
+- 👀 I’m interested in vue3, koa, shipping
+- 🌱 I’m currently learning vue3, c/c++, Algorithm
 - 📫 How to reach me jjg0954@naver.com
 
 <!---

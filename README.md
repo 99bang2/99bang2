@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @99bang2
-- 👀 I’m interested in vue3, koa, shipping
-- 🌱 I’m currently learning vue3, c/c++, Algorithm
+- 👀 I’m interested in vue2, koa, react(Next.js), typescript
+- 🌱 I’m currently learning vue2, typescript, react, graphQL
 - 📫 How to reach me jjg0954@naver.com
 
 <!---

@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @99bang2
-- 👀 I’m interested in vue2, koa, react(Next.js), typescript
-- 🌱 I’m currently learning vue2, typescript, react, graphQL
-- 📫 How to reach me jjg0954@naver.com
+### 👋 안녕하세요, 백엔드 개발자 정재규입니다.
 
-<!---
-99bang2/99bang2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**고객에게 신뢰를 주는 안정적이고 확장 가능한 백엔드 시스템**을 만드는 데 깊은 흥미를 느끼고 있습니다. 대규모 트래픽을 효율적으로 처리하고, 복잡한 비즈니스 로직을 명확한 코드로 해결하는 과정에서 성장하는 것을 즐깁니다.
+
+- 🚀 **주요 관심 기술**: **`Kotlin`**, **`Spring Boot`**, **`JPA/Hibernate`**, **`MSA`**
+- 🤔 **성장을 위한 노력**: 최근 **`CQRS`** 패턴과 **`TDD`** 방법론을 학습하며, 유지보수성이 높고 견고한 아키텍처 설계 역량을 키우고 있습니다.
+- 💻 **현재 학습 중**: 실무적인 문제 해결 능력을 높이기 위해 `Kotlin`을 이용한 클린 아키텍처 적용과 테스트 코드 작성을 집중적으로 훈련하고 있습니다.
+- 📫 **Contact**: jjg0954@naver.com
